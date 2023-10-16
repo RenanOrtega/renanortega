@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **ZENVIA**
 - 💬 Ask me about **C#**
-- 📫 How to reach me **renanortega82@gmail.com**
+- 📫 How to reach me **renanortega.dev@gmail.com**
 
 <h4>👩‍💻 Languages</h4>
 <div>

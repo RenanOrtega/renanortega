@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=renanortega&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I’m currently working on **ZENVIA**
+- 🔭 I’m currently working on **AtivosCapital - EasyCDP**
 - 💬 Ask me about **C#**
 - 📫 How to reach me **renanortega.dev@gmail.com**
 

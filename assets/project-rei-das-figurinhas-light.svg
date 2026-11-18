@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="214" viewBox="0 0 840 214" role="img" aria-label="Rei das Figurinhas">
+
+  <defs>
+    <linearGradient id="gc3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6D28D9"/><stop offset="1" stop-color="#0891B2"/>
+    </linearGradient>
+    <pattern id="dotsc3" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#D5DBE6"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="839" height="213" rx="16" fill="#FFFFFF" stroke="#E2E6EE"/>
+  <rect x="0" y="28" width="3" height="44" rx="1.5" fill="url(#gc3)"/>
+  <text x="36" y="66" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="34" font-weight="700" fill="url(#gc3)">03</text>
+  <text x="118" y="64" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="23" font-weight="750" letter-spacing="-.4" fill="#0E1220">Rei das Figurinhas</text>
+  <text x="808" y="62" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="12" fill="#5A6377">e-commerce</text>
+  <text x="118" y="98" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="14.5" fill="#5A6377">Store for school sticker albums: catalog by school, cart, coupons and</text><text x="118" y="119" font-family="'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="14.5" fill="#5A6377">Mercado Pago checkout, plus an admin dashboard for orders and sales.</text>
+  <text x="118" y="150" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="12.5" fill="#0E1220"><tspan>Store</tspan><tspan fill="url(#gc3)" font-weight="700">  →  </tspan><tspan>API</tspan><tspan fill="url(#gc3)" font-weight="700">  →  </tspan><tspan>Mercado Pago</tspan><tspan fill="url(#gc3)" font-weight="700">  →  </tspan><tspan>Admin</tspan></text>
+  <rect x="118" y="166" width="65" height="26" rx="13" fill="#F1F3F8" stroke="#E2E6EE"/><text x="150.4" y="183.5" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#2B3245">.NET 9</text><rect x="190.78" y="166" width="93" height="26" rx="13" fill="#F1F3F8" stroke="#E2E6EE"/><text x="237.4" y="183.5" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#2B3245">Clean Arch</text><rect x="292.08" y="166" width="72" height="26" rx="13" fill="#F1F3F8" stroke="#E2E6EE"/><text x="328.0" y="183.5" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#2B3245">MongoDB</text><rect x="371.99" y="166" width="58" height="26" rx="13" fill="#F1F3F8" stroke="#E2E6EE"/><text x="400.8" y="183.5" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#2B3245">React</text><rect x="437.64" y="166" width="79" height="26" rx="13" fill="#F1F3F8" stroke="#E2E6EE"/><text x="477.2" y="183.5" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#2B3245">Tailwind</text><rect x="524.68" y="166" width="65" height="26" rx="13" fill="#F1F3F8" stroke="#E2E6EE"/><text x="557.1" y="183.5" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="11.5" fill="#2B3245">Fly.io</text>
+  <text x="808" y="184" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" fill="#5A6377">↗</text>
+</svg>
